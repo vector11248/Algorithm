@@ -34,7 +34,7 @@ public class BSTPostOrder {
         PrintPostOrder(start1+1,start1+i,start2,start2+i-1,i);
         PrintPostOrder(start1+i+1,end1,start2+i+1,end2,end2-start2-i);
         System.out.println(inOrder.charAt(start2+i));
-
+        System.out.println("test for github");
 
     }
 
