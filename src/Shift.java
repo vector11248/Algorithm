@@ -1,10 +1,11 @@
 public class Shift {
     public static void main(String[] args) {
-        System.out.println(match("star","sart"));
+        System.out.println(match("",""));
 
     }
     private static boolean match(String a,String b){
         if(a.length()!=b.length()) return false;
+        if(a==""&&b=="") return true;
         for(int i=0;i<a.length();i++){
             boolean flag = true;
             for (int j = 0; j < b.length(); j++) {
