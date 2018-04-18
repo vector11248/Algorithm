@@ -7,7 +7,7 @@ import java.net.URL;
 public class BYR {
     public static void main(String[] args) throws IOException {
         try {
-            URL url = new URL("http://bt.byr.cn");
+            URL url = new URL("http://yzb.bupt.edu.cn/content/content.php?p=8_4_44");
             InputStream in = url.openStream();
             int temp;
             while ((temp=in.read())!=-1){
