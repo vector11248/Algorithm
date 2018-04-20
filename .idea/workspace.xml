@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bd109a5-83ad-48e3-8fa3-26aee069f495" name="Default" comment="test github again">
-      <change afterPath="$PROJECT_DIR$/src/AllPathsFromSourcetoTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BYR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Perm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AllPathsFromSourcetoTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllPathsFromSourcetoTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BYR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BYR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RaceCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RaceCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shift.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,18 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Trie.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Trie.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,13 +31,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Perm.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Perm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Perm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="239">
+              <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RaceCar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RaceCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1247#1253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Maze.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Maze.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="48" column="52" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1058#1064#0" expanded="true" />
+                <element signature="e#1942#1948#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,6 +156,8 @@
         <option value="$PROJECT_DIR$/src/jingdong.java" />
         <option value="$PROJECT_DIR$/src/BYR.java" />
         <option value="$PROJECT_DIR$/src/Perm.java" />
+        <option value="$PROJECT_DIR$/src/RaceCar.java" />
+        <option value="$PROJECT_DIR$/src/Maze.java" />
       </list>
     </option>
   </component>
@@ -150,10 +168,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-256" />
-    <option name="y" value="-1177" />
-    <option name="width" value="1459" />
-    <option name="height" value="1040" />
+    <option name="x" value="-9" />
+    <option name="y" value="-1108" />
+    <option name="width" value="1440" />
+    <option name="height" value="1070" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -213,17 +231,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Perm">
+  <component name="RunManager" selected="Application.Maze">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="AllPathsFromSourcetoTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AllPathsFromSourcetoTarget" />
+    <configuration name="BYR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BYR" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="BYR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BYR" />
+    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maze" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -232,8 +250,8 @@
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="RaceCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RaceCar" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -297,19 +315,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.BYR" />
-      <item itemvalue="Application.AllPathsFromSourcetoTarget" />
       <item itemvalue="Application.jingdong" />
       <item itemvalue="Application.Perm" />
+      <item itemvalue="Application.RaceCar" />
+      <item itemvalue="Application.Maze" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maze" />
+        <item itemvalue="Application.RaceCar" />
         <item itemvalue="Application.Perm" />
         <item itemvalue="Application.BYR" />
         <item itemvalue="Application.jingdong" />
-        <item itemvalue="Application.AllPathsFromSourcetoTarget" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +352,7 @@
       <workItem from="1522857201762" duration="615000" />
       <workItem from="1523272553253" duration="1500000" />
       <workItem from="1523545844878" duration="210000" />
-      <workItem from="1524062321908" duration="4390000" />
+      <workItem from="1524062321908" duration="18913000" />
     </task>
     <task id="LOCAL-00001" summary="test it">
       <created>1521877424917</created>
@@ -350,11 +368,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521891285782</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="BFS">
+      <created>1524199827762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524199827762</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43656000" />
+    <option name="totallyTimeSpent" value="58179000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,30 +391,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-256" y="-1177" width="1459" height="1040" extended-state="0" />
+    <frame x="-9" y="-1108" width="1440" height="1070" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3210604" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.42608696" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.2863158" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.6778947" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3869565" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.67893964" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.39175257" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3463158" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" weight="0.25157896" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23263158" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.2251235" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.22818312" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.22182082" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4064801" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4768421" />
       <window_info id="Favorites" order="2" sideWeight="0.50285715" side_tool="true" weight="0.22182082" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -434,14 +459,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test it" />
     <MESSAGE value="test github again" />
-    <option name="LAST_COMMIT_MESSAGE" value="test github again" />
+    <MESSAGE value="BFS" />
+    <option name="LAST_COMMIT_MESSAGE" value="BFS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="10" />
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -690,10 +716,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Perm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        <state relative-caret-position="239">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RaceCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1247#1253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Maze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="48" column="52" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1058#1064#0" expanded="true" />
+            <element signature="e#1942#1948#0" expanded="true" />
           </folding>
         </state>
       </provider>
