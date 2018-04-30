@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bd109a5-83ad-48e3-8fa3-26aee069f495" name="Default" comment="test github again">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode821ShortestDistochar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Maze.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MultiThread/MainThread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MultiThread/MyTask.java" afterDir="false" />
@@ -91,14 +92,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pot_poj3414.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Pot_poj3414.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Pot_poj3414.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" lean-forward="true" selection-end-line="54" />
+            <state relative-caret-position="245">
+              <caret line="53" column="3" lean-forward="true" selection-end-line="54" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#1297#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Leetcode821ShortestDistochar.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode821ShortestDistochar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -141,6 +151,7 @@
         <option value="$PROJECT_DIR$/../DesignPatterns/src/Observer/HanFeiZi.java" />
         <option value="$PROJECT_DIR$/src/Leetcode820_ShortEncodingofWords.java" />
         <option value="$PROJECT_DIR$/src/Pot_poj3414.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode821ShortestDistochar.java" />
       </list>
     </option>
   </component>
@@ -208,12 +219,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode820_ShortEncodingofWords">
+  <component name="RunManager" selected="Application.Leetcode821ShortestDistochar">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="Leetcode820_ShortEncodingofWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode820_ShortEncodingofWords" />
+      <module name="Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Leetcode821ShortestDistochar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode821ShortestDistochar" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -230,11 +246,6 @@
     </configuration>
     <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Maze" />
-      <module name="Leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Perm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Perm" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -298,19 +309,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.Perm" />
       <item itemvalue="Application.RaceCar" />
       <item itemvalue="Application.Maze" />
       <item itemvalue="Application.MainThread" />
       <item itemvalue="Application.Leetcode820_ShortEncodingofWords" />
+      <item itemvalue="Application.Leetcode821ShortestDistochar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode821ShortestDistochar" />
         <item itemvalue="Application.Leetcode820_ShortEncodingofWords" />
         <item itemvalue="Application.MainThread" />
         <item itemvalue="Application.Maze" />
         <item itemvalue="Application.RaceCar" />
-        <item itemvalue="Application.Perm" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +350,7 @@
       <workItem from="1524447462868" duration="38000" />
       <workItem from="1524459289958" duration="991000" />
       <workItem from="1524554504962" duration="2424000" />
-      <workItem from="1525086920523" duration="2539000" />
+      <workItem from="1525086920523" duration="5870000" />
     </task>
     <task id="LOCAL-00001" summary="test it">
       <created>1521877424917</created>
@@ -366,7 +377,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65090000" />
+    <option name="totallyTimeSpent" value="68421000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -390,12 +401,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.6778947" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3459854" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34744525" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" weight="0.25109488" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3810219" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3810219" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.3025751" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.3025751" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.22182082" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -458,21 +469,20 @@
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode821ShortestDistochar.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="16" />
+      <option name="time" value="19" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BYR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Maze.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
@@ -843,11 +853,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Pot_poj3414.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" lean-forward="true" selection-end-line="54" />
+        <state relative-caret-position="245">
+          <caret line="53" column="3" lean-forward="true" selection-end-line="54" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#1297#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode821ShortestDistochar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
         </state>
       </provider>
     </entry>
