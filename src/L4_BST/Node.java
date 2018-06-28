@@ -78,7 +78,7 @@ public class Node {
             return this.right.findMin();
         }
         Node current = this;
-        while (current.parent!=null && this==current.parent.right){
+        while (current.parent!=null && current==current.parent.right){
             current = current.parent;
         }
         return current.parent;
@@ -185,13 +185,26 @@ public class Node {
         root.insert(node4);
         root.insert(node6);
         root.insert(node7);
+        System.out.println(root.right.val);
+        System.out.println(node6.right.val);
 
-        Node cur = root.find(5);
-        cur.delete();
+//        System.out.println(root.parent);
+//        System.out.println(node6.parent.val);
+//        System.out.println(node7.nextLarger().val);
+//        Node current = node4;
+//        while (current!=null){
+//            System.out.println(current.val);
+//            current = current.nextLarger();
+//        }
+
+
+
+//        Node cur = root.find(5);
+//        cur.delete();
 //        Node nextL = cur.nextLarger();
 //        System.out.println(nextL.val);
-        System.out.println(node4.nextLarger().val);
-        System.out.println(node4.parent.val);
+//        System.out.println(node4.nextLarger().val);
+//        System.out.println(node4.parent.val);
 
     }
 

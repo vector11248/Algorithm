@@ -24,6 +24,7 @@ public class AVDHeap {
     }
 
     private static void heapify(int[] A,int i){
+        // heapify 这个过程是递归的
         // correct a single node  at index i if it break heap's property,
         // && its childen are both obey heap property
         // running time O(logn)
@@ -65,11 +66,11 @@ public class AVDHeap {
 
 
     public static void main(String[] args) {
-        int[] A = new int[11];
+        int[] A = new int[110];
         heapsize = A.length-1;
         Random random = new Random();
         for(int i=1;i<A.length;i++){
-            A[i] = random.nextInt(20);
+            A[i] = random.nextInt(200);
             System.out.print(A[i]+"  ");
         }
         System.out.println();
