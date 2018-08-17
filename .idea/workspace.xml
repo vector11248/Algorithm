@@ -13,11 +13,16 @@
       <change afterPath="$PROJECT_DIR$/src/L4_Heap/Util.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/L4_Heap/recitation10-8.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/ATOI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/MergeSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/PartitionLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/ReverseNum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leetcode821ShortestDistochar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Maze.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MultiThread/MainThread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MultiThread/MyTask.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Pot_poj3414.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomTest/RandomTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codeM/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AllPathsFromSourcetoTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllPathsFromSourcetoTarget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BYR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BYR.java" afterDir="false" />
@@ -37,21 +42,30 @@
     <favorites_list name="Leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ATOI.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Leet_Code/ATOI.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leet_Code/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+            <state relative-caret-position="249">
+              <caret line="65" column="53" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="65" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <file leaf-file-name="PartitionLinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leet_Code/PartitionLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92">
-              <caret line="544" column="25" selection-start-line="544" selection-start-column="25" selection-end-line="544" selection-end-column="25" />
+            <state relative-caret-position="91">
+              <caret line="106" column="49" lean-forward="true" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeSortedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leet_Code/MergeSortedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
         </entry>
@@ -111,6 +125,11 @@
         <option value="$PROJECT_DIR$/src/codeM/Main.java" />
         <option value="$PROJECT_DIR$/src/L4_Heap/AVDHeap.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/ATOI.java" />
+        <option value="$PROJECT_DIR$/src/RandomTest/RandomTest.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/MergeSortedList.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/ReverseNum.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/PartitionLinkedList.java" />
       </list>
     </option>
   </component>
@@ -120,10 +139,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="812" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -143,25 +162,20 @@
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Leet_Code" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -189,12 +203,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ATOI">
+  <component name="RunManager" selected="Application.PartitionLinkedList">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="ATOI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet_Code.ATOI" />
+    <configuration name="MergeSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet_Code.MergeSortedList" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -204,46 +218,46 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="AVDHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L4_Heap.AVDHeap" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet_Code.Palindrome" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L4_Heap.*" />
+          <option name="PATTERN" value="Leet_Code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Kth_largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L4_Heap.Kth_largest" />
+    <configuration name="PartitionLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet_Code.PartitionLinkedList" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L4_Heap.*" />
+          <option name="PATTERN" value="Leet_Code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeM.Main" />
+    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomTest.RandomTest" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeM.*" />
+          <option name="PATTERN" value="RandomTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L4_BST.Node" />
+    <configuration name="ReverseNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet_Code.ReverseNum" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L4_BST.*" />
+          <option name="PATTERN" value="Leet_Code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,19 +317,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.Kth_largest" />
-      <item itemvalue="Application.AVDHeap" />
-      <item itemvalue="Application.Node" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ATOI" />
+      <item itemvalue="Application.RandomTest" />
+      <item itemvalue="Application.MergeSortedList" />
+      <item itemvalue="Application.ReverseNum" />
+      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.PartitionLinkedList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ATOI" />
-        <item itemvalue="Application.AVDHeap" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Node" />
-        <item itemvalue="Application.Kth_largest" />
+        <item itemvalue="Application.PartitionLinkedList" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.ReverseNum" />
+        <item itemvalue="Application.MergeSortedList" />
+        <item itemvalue="Application.RandomTest" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +368,11 @@
       <workItem from="1527597228298" duration="218000" />
       <workItem from="1527597533069" duration="170000" />
       <workItem from="1530068508108" duration="2219000" />
-      <workItem from="1530193533080" duration="3387000" />
+      <workItem from="1530193533080" duration="3973000" />
+      <workItem from="1533631182582" duration="1735000" />
+      <workItem from="1533650138132" duration="241000" />
+      <workItem from="1534293115787" duration="5256000" />
+      <workItem from="1534378263269" duration="10866000" />
     </task>
     <task id="LOCAL-00001" summary="test it">
       <created>1521877424917</created>
@@ -381,7 +399,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111322000" />
+    <option name="totallyTimeSpent" value="130006000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,30 +411,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3210604" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.4670571" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.46569344" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.6778947" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2852984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4350365" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" weight="0.25109488" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23144105" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23809524" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.26752505" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.22182082" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5080058" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.62919706" />
       <window_info id="Favorites" order="2" sideWeight="0.50285715" side_tool="true" weight="0.22182082" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -479,55 +497,14 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leet_Code/ATOI.java</url>
-          <line>70</line>
-          <properties />
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="35" />
+      <option name="time" value="38" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AllPathsFromSourcetoTarget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BSTPostOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jingdong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AllPathsFromSourcetoTarget.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
@@ -835,15 +812,54 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
+        <state relative-caret-position="5113">
           <caret line="544" column="25" selection-start-line="544" selection-start-column="25" selection-end-line="544" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/ReverseNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomTest/RandomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/ATOI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+        <state relative-caret-position="118">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="65" column="53" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="65" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/MergeSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/PartitionLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="106" column="49" lean-forward="true" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="49" />
         </state>
       </provider>
     </entry>
