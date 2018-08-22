@@ -37,6 +37,6 @@ public class ReverseNum {
     }
 
     public static void main(String[] args) {
-        System.out.println(reverseNum(10));
+        System.out.println(reverseNum(-10));
     }
 }

@@ -16,6 +16,9 @@
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/MergeSortedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/Palindrome.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/PartitionLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/RemoveNthNodeFromEndOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/ReverseInteger.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/ReverseNum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leetcode821ShortestDistochar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Maze.java" afterDir="false" />
@@ -46,17 +49,53 @@
       <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="65" column="53" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="65" selection-end-column="53" />
+            <state relative-caret-position="1680">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PartitionLinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseNum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leet_Code/ReverseNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leet_Code/ReverseInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicatesfromSortedArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leet_Code/RemoveDuplicatesfromSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveNthNodeFromEndOfList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leet_Code/RemoveNthNodeFromEndOfList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PartitionLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/PartitionLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="106" column="49" lean-forward="true" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="49" />
+            <state relative-caret-position="2320">
+              <caret line="116" column="9" selection-start-line="112" selection-start-column="8" selection-end-line="116" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -64,7 +103,7 @@
       <file leaf-file-name="MergeSortedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/MergeSortedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
+            <state relative-caret-position="1120">
               <caret line="56" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
@@ -127,9 +166,12 @@
         <option value="$PROJECT_DIR$/src/Leet_Code/ATOI.java" />
         <option value="$PROJECT_DIR$/src/RandomTest/RandomTest.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/MergeSortedList.java" />
-        <option value="$PROJECT_DIR$/src/Leet_Code/ReverseNum.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/PartitionLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/ReverseNum.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/RemoveNthNodeFromEndOfList.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/RemoveDuplicatesfromSortedArray.java" />
       </list>
     </option>
   </component>
@@ -139,7 +181,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="805" />
@@ -150,6 +192,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,13 +207,16 @@
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Leet_Code" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PartitionLinkedList">
+  <component name="RunManager" selected="Application.RemoveNthNodeFromEndOfList">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -240,13 +288,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomTest.RandomTest" />
+    <configuration name="RemoveNthNodeFromEndOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet_Code.RemoveNthNodeFromEndOfList" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RandomTest.*" />
+          <option name="PATTERN" value="Leet_Code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,19 +365,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.RandomTest" />
       <item itemvalue="Application.MergeSortedList" />
       <item itemvalue="Application.ReverseNum" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.PartitionLinkedList" />
+      <item itemvalue="Application.RemoveNthNodeFromEndOfList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveNthNodeFromEndOfList" />
+        <item itemvalue="Application.ReverseNum" />
         <item itemvalue="Application.PartitionLinkedList" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.ReverseNum" />
         <item itemvalue="Application.MergeSortedList" />
-        <item itemvalue="Application.RandomTest" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +420,9 @@
       <workItem from="1533631182582" duration="1735000" />
       <workItem from="1533650138132" duration="241000" />
       <workItem from="1534293115787" duration="5256000" />
-      <workItem from="1534378263269" duration="10866000" />
+      <workItem from="1534378263269" duration="11367000" />
+      <workItem from="1534812668427" duration="7602000" />
+      <workItem from="1534897918073" duration="1275000" />
     </task>
     <task id="LOCAL-00001" summary="test it">
       <created>1521877424917</created>
@@ -399,7 +449,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130006000" />
+    <option name="totallyTimeSpent" value="139384000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,30 +461,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="805" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="805" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3210604" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.46569344" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.6778947" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4350365" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18448023" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" weight="0.25109488" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23809524" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2284041" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.26752505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.2746781" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.22182082" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.62919706" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33674964" />
       <window_info id="Favorites" order="2" sideWeight="0.50285715" side_tool="true" weight="0.22182082" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -442,6 +491,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.46559298" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,35 +547,20 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leet_Code/RemoveNthNodeFromEndOfList.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="38" />
+      <option name="time" value="40" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AllPathsFromSourcetoTarget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AllPathsFromSourcetoTarget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -817,17 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/ReverseNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RandomTest/RandomTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -844,22 +868,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="65" column="53" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="65" selection-end-column="53" />
+        <state relative-caret-position="1680">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/MergeSortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
+        <state relative-caret-position="1120">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/PartitionLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="106" column="49" lean-forward="true" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="49" />
+        <state relative-caret-position="2320">
+          <caret line="116" column="9" selection-start-line="112" selection-start-column="8" selection-end-line="116" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/RemoveNthNodeFromEndOfList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/ReverseNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/RemoveDuplicatesfromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
         </state>
       </provider>
     </entry>
