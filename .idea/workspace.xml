@@ -61,6 +61,7 @@
       <change afterPath="$PROJECT_DIR$/src/Maze.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MultiThread/MainThread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MultiThread/MyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PointToOffer/No_35_firstNotRepeatChar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PointToOffer/No_44_Poker_continues.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Pot_poj3414.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PrinctonAlgo/BS.java" afterDir="false" />
@@ -95,7 +96,7 @@
       <file leaf-file-name="LeetcodeTitleConvertJavaClassName.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/LeetcodeTitleConvertJavaClassName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
+            <state relative-caret-position="400">
               <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
@@ -113,8 +114,8 @@
       <file leaf-file-name="No_559_Maximum_Depth_of_N_ary_Tree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_559_Maximum_Depth_of_N_ary_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="760">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -122,8 +123,8 @@
       <file leaf-file-name="No_263_Ugly_Number.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_263_Ugly_Number.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+            <state relative-caret-position="1200">
+              <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -131,17 +132,29 @@
       <file leaf-file-name="No_264_Ugly_Number_II.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_264_Ugly_Number_II.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="75" column="40" lean-forward="true" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+            <state relative-caret-position="1500">
+              <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No_44_Poker_continues.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="No_44_Poker_continues.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PointToOffer/No_44_Poker_continues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="153">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No_35_firstNotRepeatChar.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PointToOffer/No_35_firstNotRepeatChar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,8 +162,8 @@
       <file leaf-file-name="No_733_Flood_Fill.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_733_Flood_Fill.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="480">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -158,7 +171,7 @@
       <file leaf-file-name="No_108_Convert_Sorted_Array_to_Binary_Search_Tree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_108_Convert_Sorted_Array_to_Binary_Search_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="380">
               <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
             </state>
           </provider>
@@ -167,17 +180,8 @@
       <file leaf-file-name="No_200_Number_of_Islands.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_200_Number_of_Islands.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No_114_Flatten_Binary_Tree_to_Linked_List.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_114_Flatten_Binary_Tree_to_Linked_List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="420">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -223,7 +227,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Leet_Code/RemoveNthNodeFromEndOfList.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/RemoveDuplicatesfromSortedArray.java" />
         <option value="$PROJECT_DIR$/src/hihocoder/ProtectedDiGraph.java" />
@@ -274,6 +277,7 @@
         <option value="$PROJECT_DIR$/src/Leet_Code/No_559_Maximum_Depth_of_N_ary_Tree.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_263_Ugly_Number.java" />
         <option value="$PROJECT_DIR$/src/PointToOffer/No_44_Poker_continues.java" />
+        <option value="$PROJECT_DIR$/src/PointToOffer/No_35_firstNotRepeatChar.java" />
       </list>
     </option>
   </component>
@@ -359,7 +363,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No_44_Poker_continues">
+  <component name="RunManager" selected="Application.No_35_firstNotRepeatChar">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -374,13 +378,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Newton_sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet_Code.Newton_sqrt" />
+    <configuration name="No_35_firstNotRepeatChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PointToOffer.No_35_firstNotRepeatChar" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leet_Code.*" />
+          <option name="PATTERN" value="PointToOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -474,18 +478,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.LeetcodeTitleConvertJavaClassName" />
-      <item itemvalue="Application.Newton_sqrt" />
       <item itemvalue="Application.No_852_Peak_Index_in_a_Mountain_Array" />
       <item itemvalue="Application.No_475_Heaters" />
       <item itemvalue="Application.No_44_Poker_continues" />
+      <item itemvalue="Application.No_35_firstNotRepeatChar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No_35_firstNotRepeatChar" />
         <item itemvalue="Application.No_44_Poker_continues" />
         <item itemvalue="Application.LeetcodeTitleConvertJavaClassName" />
         <item itemvalue="Application.No_475_Heaters" />
         <item itemvalue="Application.No_852_Peak_Index_in_a_Mountain_Array" />
-        <item itemvalue="Application.Newton_sqrt" />
       </list>
     </recent_temporary>
   </component>
@@ -544,7 +548,8 @@
       <workItem from="1545102926032" duration="15446000" />
       <workItem from="1545392408990" duration="34108000" />
       <workItem from="1546057696101" duration="14333000" />
-      <workItem from="1546408417244" duration="7827000" />
+      <workItem from="1546408417244" duration="8585000" />
+      <workItem from="1546673887954" duration="1725000" />
     </task>
     <task id="LOCAL-00001" summary="test it">
       <created>1521877424917</created>
@@ -571,7 +576,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="255927000" />
+    <option name="totallyTimeSpent" value="258410000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -588,7 +593,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3210604" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.2141802" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.2137628" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -596,12 +601,12 @@
       <window_info anchor="right" id="Redis Servers" order="4" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33235726" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21815519" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5275362" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.19912152" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.3111588" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.31545064" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.22182082" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -746,13 +751,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/L4_BST/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="193" column="3" selection-start-line="193" selection-start-column="3" selection-end-line="193" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -1044,35 +1042,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_114_Flatten_Binary_Tree_to_Linked_List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="340">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_108_Convert_Sorted_Array_to_Binary_Search_Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="380">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_200_Number_of_Islands.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="420">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_733_Flood_Fill.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="480">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/LeetcodeTitleConvertJavaClassName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="400">
           <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
@@ -1086,29 +1084,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_559_Maximum_Depth_of_N_ary_Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="760">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_263_Ugly_Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        <state relative-caret-position="1200">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_264_Ugly_Number_II.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="75" column="40" lean-forward="true" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+        <state relative-caret-position="1500">
+          <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PointToOffer/No_44_Poker_continues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="153">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PointToOffer/No_35_firstNotRepeatChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
