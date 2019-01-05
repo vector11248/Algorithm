@@ -51,12 +51,16 @@ public class No_35_firstNotRepeatChar {
         char[] test1={'b','b','a','c','a'};
         char[] test2 = {'b','b','a','a'};
         char[] test3 = {'a','b','c'};
-        char[] test4 = {};
+        char[] test4 = {'中'};
+        char[] test5 = {'a'};
 
         System.out.println("1  "+firstNotRepeatChar(test1));
         System.out.println("2  "+firstNotRepeatChar(test2));
         System.out.println("3  "+firstNotRepeatChar(test3));
-        System.out.println("4  "+firstNotRepeatChar(test4));
+//        System.out.println("4  "+firstNotRepeatChar(test4));
+
+//        System.out.println(test4);
+//        System.out.println(test5.length);
 
     }
 
