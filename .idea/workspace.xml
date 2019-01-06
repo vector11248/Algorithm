@@ -62,6 +62,7 @@
       <change afterPath="$PROJECT_DIR$/src/MultiThread/MainThread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MultiThread/MyTask.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PointToOffer/No_35_firstNotRepeatChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PointToOffer/No_36_InversePairs.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PointToOffer/No_44_Poker_continues.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Pot_poj3414.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PrinctonAlgo/BS.java" afterDir="false" />
@@ -147,14 +148,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No_35_firstNotRepeatChar.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="No_35_firstNotRepeatChar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PointToOffer/No_35_firstNotRepeatChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="93">
+              <caret line="77" column="27" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No_36_InversePairs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PointToOffer/No_36_InversePairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="70" column="75" selection-start-line="70" selection-start-column="75" selection-end-line="70" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -164,15 +174,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
               <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No_108_Convert_Sorted_Array_to_Binary_Search_Tree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_108_Convert_Sorted_Array_to_Binary_Search_Tree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -227,7 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Leet_Code/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/RemoveDuplicatesfromSortedArray.java" />
         <option value="$PROJECT_DIR$/src/hihocoder/ProtectedDiGraph.java" />
         <option value="$PROJECT_DIR$/src/hihocoder/CircleDetect.java" />
@@ -278,6 +278,7 @@
         <option value="$PROJECT_DIR$/src/Leet_Code/No_263_Ugly_Number.java" />
         <option value="$PROJECT_DIR$/src/PointToOffer/No_44_Poker_continues.java" />
         <option value="$PROJECT_DIR$/src/PointToOffer/No_35_firstNotRepeatChar.java" />
+        <option value="$PROJECT_DIR$/src/PointToOffer/No_36_InversePairs.java" />
       </list>
     </option>
   </component>
@@ -363,7 +364,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No_35_firstNotRepeatChar">
+  <component name="RunManager" selected="Application.No_36_InversePairs">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -389,6 +390,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="No_36_InversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PointToOffer.No_36_InversePairs" />
+      <module name="Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PointToOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="No_44_Poker_continues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PointToOffer.No_44_Poker_continues" />
       <module name="Leetcode" />
@@ -402,17 +414,6 @@
     </configuration>
     <configuration name="No_475_Heaters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leet_Code.No_475_Heaters" />
-      <module name="Leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leet_Code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="No_852_Peak_Index_in_a_Mountain_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet_Code.No_852_Peak_Index_in_a_Mountain_Array" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -478,18 +479,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.LeetcodeTitleConvertJavaClassName" />
-      <item itemvalue="Application.No_852_Peak_Index_in_a_Mountain_Array" />
       <item itemvalue="Application.No_475_Heaters" />
       <item itemvalue="Application.No_44_Poker_continues" />
       <item itemvalue="Application.No_35_firstNotRepeatChar" />
+      <item itemvalue="Application.No_36_InversePairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No_36_InversePairs" />
         <item itemvalue="Application.No_35_firstNotRepeatChar" />
         <item itemvalue="Application.No_44_Poker_continues" />
         <item itemvalue="Application.LeetcodeTitleConvertJavaClassName" />
         <item itemvalue="Application.No_475_Heaters" />
-        <item itemvalue="Application.No_852_Peak_Index_in_a_Mountain_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -549,7 +550,7 @@
       <workItem from="1545392408990" duration="34108000" />
       <workItem from="1546057696101" duration="14333000" />
       <workItem from="1546408417244" duration="8585000" />
-      <workItem from="1546673887954" duration="2214000" />
+      <workItem from="1546673887954" duration="7218000" />
     </task>
     <task id="LOCAL-00001" summary="test it">
       <created>1521877424917</created>
@@ -576,7 +577,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="258899000" />
+    <option name="totallyTimeSpent" value="263903000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -601,9 +602,9 @@
       <window_info anchor="right" id="Redis Servers" order="4" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3601757" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22401172" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.35285506" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.13616398" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.31545064" />
@@ -612,7 +613,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3103953" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45241582" />
       <window_info id="Favorites" order="2" sideWeight="0.50285715" side_tool="true" weight="0.22182082" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -735,6 +736,12 @@
           <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PointToOffer/No_36_InversePairs.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Leet_Code/No_200_Number_of_Islands.java</url>
           <line>23</line>
@@ -747,17 +754,10 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="60" />
+      <option name="time" value="61" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="794">
@@ -1112,11 +1112,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PointToOffer/No_35_firstNotRepeatChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="93">
+          <caret line="77" column="27" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PointToOffer/No_36_InversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="70" column="75" selection-start-line="70" selection-start-column="75" selection-end-line="70" selection-end-column="75" />
         </state>
       </provider>
     </entry>

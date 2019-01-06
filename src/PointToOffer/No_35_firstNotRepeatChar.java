@@ -37,6 +37,32 @@ public class No_35_firstNotRepeatChar {
 
     }
 
+    public static char[] Cover2thStr(char[] str1,char[] str2,char[] newstr){
+        // 在第一个字符串中删除掉在第二个字符串当中出现过的字符。
+        if (str2.length == 0) return str1;
+        Map<Character,Integer> map = new LinkedHashMap<>();
+        int n1 = str1.length;
+        int n2 = str2.length;
+        for (int i=0;i<n2;i++){
+            if (!map.containsKey(str2[i])){
+                map.put(str2[i],1); // 1实际上无意义，只要在str2当中出现的，全部放到map中
+            }
+        }
+        int i = 0;
+        int j = 0;
+        while (i<n1){
+            if (!map.containsKey(str1[i])){
+                newstr[j] = str1[i];
+                i++;j++;
+            }else {
+                i++;
+            }
+        }
+        return newstr;
+    }
+
+
+
     public static void main(String[] args) {
        // 测试用例：
         /*
@@ -49,18 +75,22 @@ public class No_35_firstNotRepeatChar {
         * */
 
         char[] test1={'b','b','a','c','a'};
-        char[] test2 = {'b','b','a','a'};
-        char[] test3 = {'a','b','c'};
-        char[] test4 = {'中'};
-        char[] test5 = {'a'};
-
-        System.out.println("1  "+firstNotRepeatChar(test1));
-        System.out.println("2  "+firstNotRepeatChar(test2));
-        System.out.println("3  "+firstNotRepeatChar(test3));
+        char[] test2={'d'};
+//        char[] test2={};
+//        char[] test2 = {'b','c','a','a'};
+//        char[] test3 = {'a','b','c'};
+//        char[] test4 = {'中'};
+//        char[] test5 = {'a'};
+//        System.out.println(test1);
+//        System.out.println("1  "+firstNotRepeatChar(test1));
+//        System.out.println("2  "+firstNotRepeatChar(test2));
+//        System.out.println("3  "+firstNotRepeatChar(test3));
 //        System.out.println("4  "+firstNotRepeatChar(test4));
-
 //        System.out.println(test4);
 //        System.out.println(test5.length);
+
+        char[] newstr = new char[test1.length];
+        System.out.println(Cover2thStr(test1,test2,newstr));
 
     }
 
