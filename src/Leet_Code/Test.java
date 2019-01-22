@@ -16,8 +16,7 @@ public class Test {
     }
 
     public static void main(String[] args) {
-       int a = 1;
-       changeInt(a);
-        System.out.println(a);
+       int a = 2;
+        System.out.println(a << 0);
     }
 }
