@@ -16,6 +16,7 @@
       <change afterPath="$PROJECT_DIR$/src/L4_Heap/recitation10-8.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/ATOI.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/BitMax.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/Leetcode310_MinimumHeightTrees.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/LeetcodeTitleConvertJavaClassName.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/MergeSortedList.java" afterDir="false" />
@@ -32,18 +33,24 @@
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_129_Sum_Root_to_Leaf_Numbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_145_BinaryTreePostorderTraversal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_152_Maximum_Product_Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_190_Reverse_Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_198_House_Robber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_200_Number_of_Islands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_201_Bitwise_AND_of_Numbers_Range.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_203_Remove_Linked_List_Elements.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_204_Count_Primes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_213_House_Robber_II.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_226_Invert_Binary_Tree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_263_Ugly_Number.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_264_Ugly_Number_II.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_268_Missing_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_279_Perfect_Squares.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_27_Remove_Element.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_283_Move_Zeroes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_287_Find_the_Duplicate_Number.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_300_Longest_Increasing_Subsequence.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_315_Count_of_Smaller_Numbers_After_Self.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_318_Maximum_Product_of_Word_Lengths.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_322_Coin_Change.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_35_Search_Insert_Position.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_475_Heaters.java" afterDir="false" />
@@ -65,6 +72,7 @@
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_746_Min_Cost_Climbing_Stairs.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_74_Search_a_2D_Matrix.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_79_Word_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_7_Reverse_Integer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_852_Peak_Index_in_a_Mountain_Array.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_957_prisonCellAfterNDays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_95_Unique_Binary_Search_Trees_II.java" afterDir="false" />
@@ -80,6 +88,7 @@
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/ReverseNum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/jioujiou.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/leetcode_958CheckCompletenessofaBinaryTree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leetcode821ShortestDistochar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Maze.java" afterDir="false" />
@@ -122,35 +131,17 @@
       <file leaf-file-name="LeetcodeTitleConvertJavaClassName.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/LeetcodeTitleConvertJavaClassName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="264">
               <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No_645_Set_Mismatch.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_645_Set_Mismatch.java">
+      <file leaf-file-name="No_318_Maximum_Product_of_Word_Lengths.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_318_Maximum_Product_of_Word_Lengths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No_287_Find_the_Duplicate_Number.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_287_Find_the_Duplicate_Number.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No_203_Remove_Linked_List_Elements.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_203_Remove_Linked_List_Elements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+            <state relative-caret-position="304">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -177,6 +168,7 @@
       <find>poll</find>
       <find>down</find>
       <find>\n\n\n    \}\n</find>
+      <find>152</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -196,15 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Leet_Code/No_114_Flatten_Binary_Tree_to_Linked_List.java" />
-        <option value="$PROJECT_DIR$/src/Leet_Code/No_129_Sum_Root_to_Leaf_Numbers.java" />
-        <option value="$PROJECT_DIR$/src/Leet_Code/No_226_Invert_Binary_Tree.java" />
-        <option value="$PROJECT_DIR$/src/Leet_Code/No_96_Unique_Binary_Search_Trees.java" />
-        <option value="$PROJECT_DIR$/src/Leet_Code/No_95_Unique_Binary_Search_Trees_II.java" />
-        <option value="$PROJECT_DIR$/src/Leet_Code/No_264_Ugly_Number_II.java" />
-        <option value="$PROJECT_DIR$/src/Leet_Code/No_204_Count_Primes.java" />
-        <option value="$PROJECT_DIR$/src/Leet_Code/Newton_sqrt.java" />
-        <option value="$PROJECT_DIR$/src/Leet_Code/No_704_Binary_Search.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_852_Peak_Index_in_a_Mountain_Array.java" />
         <option value="$PROJECT_DIR$/src/Algorithm_book/Bag.java" />
         <option value="$PROJECT_DIR$/src/Algorithm_book/Graph.java" />
@@ -229,7 +212,6 @@
         <option value="$PROJECT_DIR$/src/Leet_Code/No_10_Regular_Expression_Matching.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_4_Median_of_Two_Sorted_Arrays.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_53_Maximum_Subarray.java" />
-        <option value="$PROJECT_DIR$/src/Leet_Code/No_152_Maximum_Product_Subarray.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_79_Word_Search.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_322_Coin_Change.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_62_Unique_Paths.java" />
@@ -247,6 +229,16 @@
         <option value="$PROJECT_DIR$/src/Leet_Code/No_203_Remove_Linked_List_Elements.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_287_Find_the_Duplicate_Number.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_645_Set_Mismatch.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/No_198_House_Robber.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/No_279_Perfect_Squares.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/No_152_Maximum_Product_Subarray.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/No_213_House_Robber_II.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/BitMax.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/jioujiou.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/No_201_Bitwise_AND_of_Numbers_Range.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/No_190_Reverse_Bits.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/No_7_Reverse_Integer.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/No_318_Maximum_Product_of_Word_Lengths.java" />
       </list>
     </option>
   </component>
@@ -256,10 +248,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="812" />
+    <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -267,9 +259,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,16 +277,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Leet_Code" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PointToOffer" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,6 +322,17 @@
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
+    <configuration name="BitMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet_Code.BitMax" />
+      <module name="Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leet_Code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="LeetcodeTitleConvertJavaClassName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leet_Code.LeetcodeTitleConvertJavaClassName" />
       <module name="Leetcode" />
@@ -347,8 +344,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="No_27_Remove_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet_Code.No_27_Remove_Element" />
+    <configuration name="No_201_Bitwise_AND_of_Numbers_Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet_Code.No_201_Bitwise_AND_of_Numbers_Range" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -358,30 +355,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="No_300_Longest_Increasing_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet_Code.No_300_Longest_Increasing_Subsequence" />
-      <module name="Leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leet_Code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="No_322_Coin_Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet_Code.No_322_Coin_Change" />
-      <module name="Leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leet_Code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="No_673_Number_of_Longest_Increasing_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet_Code.No_673_Number_of_Longest_Increasing_Subsequence" />
+    <configuration name="No_279_Perfect_Squares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet_Code.No_279_Perfect_Squares" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -393,6 +368,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="jioujiou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet_Code.jioujiou" />
+      <module name="Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leet_Code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -447,18 +433,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.LeetcodeTitleConvertJavaClassName" />
-      <item itemvalue="Application.No_322_Coin_Change" />
-      <item itemvalue="Application.No_300_Longest_Increasing_Subsequence" />
-      <item itemvalue="Application.No_673_Number_of_Longest_Increasing_Subsequence" />
-      <item itemvalue="Application.No_27_Remove_Element" />
+      <item itemvalue="Application.No_279_Perfect_Squares" />
+      <item itemvalue="Application.BitMax" />
+      <item itemvalue="Application.jioujiou" />
+      <item itemvalue="Application.No_201_Bitwise_AND_of_Numbers_Range" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.LeetcodeTitleConvertJavaClassName" />
-        <item itemvalue="Application.No_27_Remove_Element" />
-        <item itemvalue="Application.No_673_Number_of_Longest_Increasing_Subsequence" />
-        <item itemvalue="Application.No_300_Longest_Increasing_Subsequence" />
-        <item itemvalue="Application.No_322_Coin_Change" />
+        <item itemvalue="Application.No_201_Bitwise_AND_of_Numbers_Range" />
+        <item itemvalue="Application.jioujiou" />
+        <item itemvalue="Application.BitMax" />
+        <item itemvalue="Application.No_279_Perfect_Squares" />
       </list>
     </recent_temporary>
   </component>
@@ -522,7 +508,8 @@
       <workItem from="1547021108087" duration="19358000" />
       <workItem from="1547639209651" duration="1353000" />
       <workItem from="1547697342962" duration="15032000" />
-      <workItem from="1547786382345" duration="25807000" />
+      <workItem from="1547786382345" duration="35436000" />
+      <workItem from="1550234108794" duration="4527000" />
     </task>
     <task id="LOCAL-00001" summary="test it">
       <created>1521877424917</created>
@@ -549,7 +536,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="326922000" />
+    <option name="totallyTimeSpent" value="341078000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -561,7 +548,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -574,13 +561,14 @@
       <window_info anchor="right" id="Redis Servers" order="4" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29565218" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40869564" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.45534408" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40434784" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.30829757" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.3125894" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.22182082" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -592,7 +580,6 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -754,69 +741,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_744_Find_Smallest_Letter_Greater_Than_Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_852_Peak_Index_in_a_Mountain_Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_475_Heaters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_662_Maximum_Width_of_Binary_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_108_Convert_Sorted_Array_to_Binary_Search_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_733_Flood_Fill.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_559_Maximum_Depth_of_N_ary_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_263_Ugly_Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_264_Ugly_Number_II.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
@@ -975,20 +899,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_152_Maximum_Product_Subarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_322_Coin_Change.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_64_Minimum_Path_Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
@@ -1045,9 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-218">
           <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,13 +993,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/LeetcodeTitleConvertJavaClassName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_268_Missing_Number.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
@@ -1102,8 +1002,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_203_Remove_Linked_List_Elements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        <state relative-caret-position="720">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_645_Set_Mismatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_198_House_Robber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -1114,10 +1028,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_645_Set_Mismatch.java">
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_152_Maximum_Product_Subarray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        <state relative-caret-position="420">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/jioujiou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/BitMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_213_House_Robber_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_322_Coin_Change.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_279_Perfect_Squares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_201_Bitwise_AND_of_Numbers_Range.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_190_Reverse_Bits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_7_Reverse_Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/LeetcodeTitleConvertJavaClassName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_318_Maximum_Product_of_Word_Lengths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
         </state>
       </provider>
     </entry>
