@@ -53,7 +53,10 @@
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_318_Maximum_Product_of_Word_Lengths.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_322_Coin_Change.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_35_Search_Insert_Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_397_Integer_Replacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_461_Hamming_Distance.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_475_Heaters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_477_Total_Hamming_Distance.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_4_Median_of_Two_Sorted_Arrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_50_Pow_x_n.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leet_Code/No_53_Maximum_Subarray.java" afterDir="false" />
@@ -131,17 +134,26 @@
       <file leaf-file-name="LeetcodeTitleConvertJavaClassName.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leet_Code/LeetcodeTitleConvertJavaClassName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="184">
               <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No_318_Maximum_Product_of_Word_Lengths.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_318_Maximum_Product_of_Word_Lengths.java">
+      <file leaf-file-name="No_477_Total_Hamming_Distance.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_477_Total_Hamming_Distance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="207">
+              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No_461_Hamming_Distance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_461_Hamming_Distance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -188,9 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Leet_Code/No_852_Peak_Index_in_a_Mountain_Array.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm_book/Bag.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm_book/Graph.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_744_Find_Smallest_Letter_Greater_Than_Target.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_475_Heaters.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_35_Search_Insert_Position.java" />
@@ -239,6 +248,9 @@
         <option value="$PROJECT_DIR$/src/Leet_Code/No_190_Reverse_Bits.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_7_Reverse_Integer.java" />
         <option value="$PROJECT_DIR$/src/Leet_Code/No_318_Maximum_Product_of_Word_Lengths.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/No_397_Integer_Replacement.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/No_461_Hamming_Distance.java" />
+        <option value="$PROJECT_DIR$/src/Leet_Code/No_477_Total_Hamming_Distance.java" />
       </list>
     </option>
   </component>
@@ -509,7 +521,7 @@
       <workItem from="1547639209651" duration="1353000" />
       <workItem from="1547697342962" duration="15032000" />
       <workItem from="1547786382345" duration="35436000" />
-      <workItem from="1550234108794" duration="4527000" />
+      <workItem from="1550234108794" duration="9610000" />
     </task>
     <task id="LOCAL-00001" summary="test it">
       <created>1521877424917</created>
@@ -536,7 +548,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="341078000" />
+    <option name="totallyTimeSpent" value="346161000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -561,12 +573,12 @@
       <window_info anchor="right" id="Redis Servers" order="4" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40869564" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31304348" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" weight="0.5652174" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.40434784" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.3125894" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.3125894" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.22182082" />
@@ -741,27 +753,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_264_Ugly_Number_II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PointToOffer/No_44_Poker_continues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PointToOffer/No_35_firstNotRepeatChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="77" column="27" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PointToOffer/No_36_InversePairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1320">
@@ -1091,17 +1082,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_318_Maximum_Product_of_Word_Lengths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_397_Integer_Replacement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leet_Code/LeetcodeTitleConvertJavaClassName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="184">
           <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_318_Maximum_Product_of_Word_Lengths.java">
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_461_Hamming_Distance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="316">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leet_Code/No_477_Total_Hamming_Distance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
         </state>
       </provider>
     </entry>
