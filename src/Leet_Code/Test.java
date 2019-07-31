@@ -10,27 +10,42 @@ import java.util.*;
  **/
 public class Test {
 
-    public static void changeInt(List<String> ans){
-        ans.add("hello");
+    public static boolean match(char[] str, char[] pattern)
+    {
+        int sindex = 0, pindex = 0;
+        return matchCore(str, sindex, pindex, pattern);
+    }
+    public static boolean matchCore(char[] str, int sindex, int pindex, char[] pattern){
+//        if(sindex >= str.length && pindex == pattern.length)
+//            return true;
+//        if(pindex >= pattern.length && sindex < str.length)
+//            return false;
+        if(sindex == str.length && pindex == pattern.length)
+            return true;
+        if(sindex >= str.length && pindex < pattern.length ||
+                sindex < str.length && pindex >= pattern.length)
+            return false;
+        if(pindex+1 < pattern.length && pattern[pindex+1] == '*'){
+            if(sindex < str.length && (str[sindex] == pattern[pindex] || pattern[pindex] == '.') ){
+                return matchCore(str, sindex, pindex+2, pattern) ||
+                        matchCore(str, sindex+1, pindex+2, pattern ) ||
+                        matchCore(str, sindex+1, pindex, pattern);
+            }else{
+                return matchCore(str, sindex, pindex+2, pattern);
+            }
+        }
+        if(sindex < str.length && (str[sindex] == pattern[pindex] || pattern[pindex] == '.'))
+            return matchCore(str, sindex+1, pindex+1, pattern);
+        return false;
     }
 
-    public static void swap(int[] nums,int i,int j){
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = nums[i];
-    }
 
     public static void main(String[] args) {
-        List<Integer> list1 = new ArrayList<>();
-        List<Integer> list2 = new ArrayList<>();
-        list1.add(1);
-        list1.add(2);
-        list2.add(1);
-        list2.add(3);
 
-        Set set = new HashSet<>();
-        set.add(list1);
-        set.add(list2);
-        System.out.println(set);
+        char[] str = {'a','a','a'};
+        char[] pattern = {'a','*'};
+        System.out.println(match(str,pattern));
+        Stack<Integer> stack = new Stack<>();
+        stack.push(1);
     }
 }
