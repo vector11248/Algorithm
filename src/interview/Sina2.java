@@ -22,7 +22,7 @@ public class Sina2 {
     }
 
     public int get(int key) {
-        if (exist.get(key)){
+        if (exist.get(key)!=null && exist.get(key) != false){
             int temp = values.get(key);
             queue.remove((Integer) key);
             queue.addFirst((Integer) key);
@@ -54,6 +54,7 @@ public class Sina2 {
 
     public static void main(String[] args) {
         Sina2  sina2 = new Sina2(2);
+//        sina2.get(0);
         sina2.put(1,1);
         sina2.put(2,2);
         sina2.get(1);

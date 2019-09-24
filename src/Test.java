@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Test {
@@ -16,7 +17,7 @@ public class Test {
 
 
     public static void main(String[] args) {
-        int shite;
+       /* int shite;
 
         Stu stu1 = new Stu(3,5);
         Stu stu2 = new Stu(3,3);
@@ -44,6 +45,26 @@ public class Test {
 //        private void test(boolean b){
 //          shite = 0;
 //        }
+*/
+        //List<List<Integer>> list = new ArrayList<>();
+        LinkedList<Integer>[] adj = new LinkedList[5];
+        LinkedList<Integer> l1 =new LinkedList<>();
+        l1.add(2);
+        l1.add(4);
+        LinkedList<Integer> l2 =new LinkedList<>();
+        l2.add(3);
+        adj[0] = l1;
+        adj[1] = l2;
+
+        for(int i=0;i<2;i++){
+            if (adj[i].size() != 0){
+                //System.out.println(adj[i]);
+                for(int j=0;j<adj[i].size();j++){
+                    System.out.print(adj[i].get(j));
+                }
+            }
+            System.out.println();
+        }
 
     }
 
